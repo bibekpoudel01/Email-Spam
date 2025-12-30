@@ -3,9 +3,8 @@ pandas
 matplotlib
 seaborn
 scikit-learn
-imblearn
+imbalanced-learn
 wordcloud
 streamlit
-pickle
 missingno
-nltk
+
