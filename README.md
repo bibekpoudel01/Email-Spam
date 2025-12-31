@@ -1,4 +1,6 @@
 ## 📧 Email Spam Detection Using Machine Learning
+![Project Banner](Images/Front.jpg)
+
  Overview
  
 Email spam is a persistent problem that affects productivity, security, and user experience. This project focuses on building a robust machine learning–based email spam classifier that can automatically distinguish between spam and legitimate (ham) emails. The solution applies classical NLP preprocessing techniques combined with multiple supervised learning algorithms and is deployed as an interactive web application using Streamlit Cloud.
@@ -51,11 +53,18 @@ Hyperparameter tuning was performed to further optimize model performance and im
 
 # Web Application & Deployment
 
-An interactive Streamlit web application was developed to allow users to input email text and instantly receive spam classification results.
+An interactive web application was developed using Streamlit to allow users to input email text and get instant spam classification results. The app is deployed on Streamlit Cloud, making it accessible from anywhere without local setup.
 
-The application is deployed on Streamlit Cloud, making it accessible from anywhere without local setup.
 
-https://email-spam-zm7nm2zwgmoxbnlw8sc5py.streamlit.app/
+
+![Deployment Demo](Images/Email%20Spam%20or%20Ham.png)
+
+
+
+
+
+
+🔗 Try it live: https://email-spam-zm7nm2zwgmoxbnlw8sc5py.streamlit.app/
 
 
 # Challenges Faced
