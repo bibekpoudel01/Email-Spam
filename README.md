@@ -7,7 +7,7 @@ Email spam is a persistent problem that affects productivity, security, and user
 
 The project emphasizes model comparison, performance evaluation, and real-world deployment, making it suitable for both academic learning and practical use cases.
 
-# Problem Statement
+## Problem Statement
 
 Manual filtering of spam emails is inefficient and unreliable. Traditional rule-based filters often fail to adapt to evolving spam patterns. The objective of this project is to develop an automated, data-driven spam detection system that achieves high accuracy while maintaining strong recall for spam detection.
 
